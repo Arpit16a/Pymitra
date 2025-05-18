@@ -1,0 +1,29 @@
+# Python-specific
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Temporary files from gTTS
+*.mp3
+
+# Sensitive files
+contacts_item.py
+.env
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# IDE-specific
+.vscode/
+.idea/
+
+# Miscellaneous
+*.log
+*.bak
+*.swp

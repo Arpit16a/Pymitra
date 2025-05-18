@@ -1,0 +1,19 @@
+music={
+    "thunder": "https://youtu.be/fKopy74weus?feature=shared",
+    "the nights":"https://youtu.be/UtF6Jej8yb4?feature=shared",
+    "one direction" : "https://youtu.be/syFZfO_wfMQ?feature=shared",
+    "beliver":"https://youtu.be/7wtfhZwyrcc?feature=shared",
+    "shape of you":"https://youtu.be/JGwWNGJdvx8?feature=shared",
+    "perfect":"https://youtu.be/2Vv-BfVoq4g?feature=shared",
+    "diljit dosanjh playlist":"https://youtu.be/MFTs4vwVEjU?feature=shared",
+    "naina":"https://youtu.be/3u6lLWGjFLY?feature=shared",
+    "millionaire":"https://youtu.be/XO8wew38VM8?feature=shared",
+    "qatal":"https://youtu.be/c-FKlE3_kHo?feature=shared",
+    "qatar":"https://youtu.be/c-FKlE3_kHo?feature=shared",
+    "kathal":"https://youtu.be/c-FKlE3_kHo?feature=shared",
+    "espresso":"https://youtu.be/eVli-tstM5E?feature=shared",
+    "patola":"https://youtu.be/yo7623fuTZk?feature=shared",
+    "proper patola":"https://youtu.be/yo7623fuTZk?feature=shared",
+    "husn":"https://youtu.be/0IIJxkDtkHY?feature=shared",
+    "levitating":"https://youtu.be/TUVcZfQe-Kw?feature=shared"
+    }
