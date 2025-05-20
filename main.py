@@ -195,7 +195,6 @@ try:
                     speak("Sorry, I didn't catch that. Can you repeat?")
                     continue  # Stay in command mode and keep listening
                 time.sleep(1)
-
 except KeyboardInterrupt:
     print("\ Pymitra stopped. Exiting gracefully.")
     speak("Goodbye! See you soon.")
